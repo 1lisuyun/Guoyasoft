@@ -33,7 +33,7 @@ public class firstestngTest {
 		
 		WebElement userName1=driver.findElement(By.id("su"));
 		//userName1.clear();
-		userName1.sendKeys("德邦");
+		userName1.sendKeys("德邦ghhhhhhhhh");
 		//WebElement password=driver.findElement(By.id("password"));
 		//password.clear();
 		//password.sendKeys("12345678");
